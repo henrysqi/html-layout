@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+}
+
+.col {
+	height: 100vh;
+	width: 32vw;
+	float:left;
+}
+
+#col1 {
+	background-color: #4A90E2;
+}
+
+#col2 {
+	background-color: #50E3C2;
+}
+
+#col3 {
+	background-color: #B8E986;
+	height: 80vh;
+	
+}
+
+img {
+	height: 20vh;
+	width: 32vw;
+	
+}
+
